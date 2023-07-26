@@ -1,8 +1,6 @@
-# Microsoft Teams Online Class Attender
+# FocusOnTrack
 
-This project is not updated/maintained. It is a FIY (Fix It Yourself).
-
-This bot attends the online classes (or meetings) held on Microsoft teams, according to the given timetable.
+Meet "FocusOnTrack": Your Automated Productivity Companion! This innovative web scraper bot syncs with your Microsoft Teams Calendar, seamlessly joining and leaving classes on time. Stay productive and engaged in meaningful tasks while FocusOnTrack handles your class attendance. Boost productivity with FocusOnTrack! 🚀🎓 #FocusOnTrack #AutomatedProductivity #WebScraperBot
 
 
 ## Configure
